@@ -19,6 +19,7 @@ function App() {
           Currently, I am a master student majoring in EE at National Taiwan University. 
           My interests include music and baseball, which help me stay relaxed and hyped. 
           I am very excited to learn web development skills like React and CSS in this course!
+          WHY???
         </p>
       </section>
 
