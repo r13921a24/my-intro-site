@@ -18,8 +18,9 @@ function App() {
           Hello! My name is BO CHING, and I am from Taichung. 
           Currently, I am a master student majoring in EE at National Taiwan University. 
           My interests include music and baseball, which help me stay relaxed and hyped. 
-          I am very excited to learn web development skills like React and CSS in this course!
-          WHY???
+          I am very excited to learn cybersecurity skills in this course!
+          My goal is to packed myself with cybersecurity experience that can solve real-world problems. 
+          I look forward to learn more and improving my cybersecurity abilities!
         </p>
       </section>
 
